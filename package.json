@@ -40,7 +40,7 @@
   },
   "scripts": {
     "test": "karma start test\\karma.conf.js",
-    "start": "node index.html"
+    "start": "node app/index.html"
   }
 
 }
